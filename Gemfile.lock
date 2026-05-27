@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/firstdraft/slash_migrate
-  revision: 81a0415d12ee44ff2611b64c83862ef285260fc2
+  revision: e50a556e2f15cbbc250162a1c6038b744104dc56
   specs:
     slash_migrate (0.1.0)
       rails (>= 8.0)
