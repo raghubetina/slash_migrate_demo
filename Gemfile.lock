@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/firstdraft/slash_migrate
+  revision: be6e77257d4e24e2e3ed5c20ce84e2ad99746252
+  specs:
+    slash_migrate (0.1.0)
+      rails (>= 8.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -539,6 +546,7 @@ DEPENDENCIES
   rufo
   selenium-webdriver (~> 4.41)
   shoulda-matchers (~> 7.0)
+  slash_migrate!
   solid_cable
   solid_cache
   solid_queue (~> 1.3)

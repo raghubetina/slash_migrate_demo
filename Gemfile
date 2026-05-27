@@ -39,6 +39,7 @@ group :development do
   gem "htmlbeautifier"                # Format HTML/ERB files
   gem "pry-rails"                     # Better Rails console
   gem "rails_db", "~> 2.5.0"          # Database viewer in browser
+  gem "slash_migrate", git: "https://github.com/firstdraft/slash_migrate" # Migration GUI at /rails/migrate
   gem "rufo"                          # Ruby code formatter
   gem "web-console"                   # Console on exception pages
   gem "pry", "~> 0.16" # Interactive Ruby shell
